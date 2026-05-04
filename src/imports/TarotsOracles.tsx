@@ -1,6 +1,6 @@
-import img24708659919880376013722478796121804026262079N1 from "figma:asset/35243befaad3fa16599fe4e48b3e3a6ae4240ea3.png";
-import imgCaptureDecran20260311A1718521 from "figma:asset/5e032289537309a69e13cd5770e0007e891b43fb.png";
-import imgCaptureDecran20260311A1718181 from "figma:asset/691564b01327f6beda015c6f9abb37c8933e981e.png";
+// import img24708659919880376013722478796121804026262079N1 from "figma:asset/35243befaad3fa16599fe4e48b3e3a6ae4240ea3.png";
+// import imgCaptureDecran20260311A1718521 from "figma:asset/5e032289537309a69e13cd5770e0007e891b43fb.png";
+// import imgCaptureDecran20260311A1718181 from "figma:asset/691564b01327f6beda015c6f9abb37c8933e981e.png";
 import imgCouverture1 from "figma:asset/3ff3fba9261a91787952f9c05897df77ff6780a9.png";
 
 export default function TarotsOracles() {

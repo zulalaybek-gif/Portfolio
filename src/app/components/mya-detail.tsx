@@ -15,7 +15,7 @@ import { useNavigate } from "react-router";
 import svgPaths from "../../imports/svg-u0wwpt98nw";
 
 // ── Figma Assets ──
-import imgBrandSheet from "figma:asset/5d661b1c474d5b87d6bcd469122e131c3b6cf99f.png";
+// import imgBrandSheet from "figma:asset/5d661b1c474d5b87d6bcd469122e131c3b6cf99f.png";
 import imgRing from "figma:asset/263862c56cc8639ac9f2d8b0d844a2611aa9b91c.png";
 import imgKeychains from "figma:asset/0f94051a8f76dfc828befdfa602d98ce377d7d77.png";
 import imgJewelryBox1 from "figma:asset/160ca026bcb9ef25f319eb09574521fab9004042.png";

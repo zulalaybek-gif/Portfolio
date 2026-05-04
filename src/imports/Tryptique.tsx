@@ -1,6 +1,6 @@
-import imgMockup12 from "figma:asset/23acfddc79b69803ed0c12309ebbf1b096a1fb75.png";
-import imgC1 from "figma:asset/1bf4ba6d2595ba3f7cedc009ddab8bcd1ef49e82.png";
-import imgB1 from "figma:asset/c7f4397444e13ee0d6d1a983e24a5b9044257dca.png";
+// import imgMockup12 from "figma:asset/23acfddc79b69803ed0c12309ebbf1b096a1fb75.png";
+// import imgC1 from "figma:asset/1bf4ba6d2595ba3f7cedc009ddab8bcd1ef49e82.png";
+// import imgB1 from "figma:asset/c7f4397444e13ee0d6d1a983e24a5b9044257dca.png";
 import imgA1 from "figma:asset/3756986884ba0261fe4f428c15a36edc77f1d9ee.png";
 import imgMockup11 from "figma:asset/8ec711aa2a8e96750f83190b6bf872e0f39d0fee.png";
 import imgPlanDeTravail11 from "figma:asset/ce6df195729363b7e2b288eb8b06561b2ea06a2b.png";

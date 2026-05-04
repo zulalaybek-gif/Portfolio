@@ -1,7 +1,7 @@
 import imgFichier23 from "figma:asset/9291e6ce259c5a348cb2d03faee96d2a1900a48b.png";
 import imgPlanDeTravail14 from "figma:asset/2cf585e76a624e180418d538130f7d4a83de2e54.png";
 import imgBagueGraveeSansFond1 from "figma:asset/9917ab39919b3dfb62cf0a0afd806b5e47d88857.png";
-import imgCaptureDecran20260312A2228201 from "figma:asset/5d661b1c474d5b87d6bcd469122e131c3b6cf99f.png";
+// import imgCaptureDecran20260312A2228201 from "figma:asset/5d661b1c474d5b87d6bcd469122e131c3b6cf99f.png";
 import imgBoiteABijoux1 from "figma:asset/a79549540bc44bd8d69f665fb501b84a46df39cc.png";
 import imgPortesClefs1 from "figma:asset/0be917f898469154ba6afdc898519d851c275d44.png";
 import img1202 from "figma:asset/0f15294d608077e2a5b0f5bf49980413a14f016a.png";

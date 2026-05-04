@@ -14,9 +14,9 @@ import { ArrowLeft, ArrowRight } from "lucide-react";
 import { useNavigate } from "react-router";
 
 // ── Figma Imports ──
-import imgOriginal from "figma:asset/35243befaad3fa16599fe4e48b3e3a6ae4240ea3.png";
-import imgRedesign1 from "figma:asset/691564b01327f6beda015c6f9abb37c8933e981e.png";
-import imgRedesign2 from "figma:asset/5e032289537309a69e13cd5770e0007e891b43fb.png";
+// import imgOriginal from "figma:asset/35243befaad3fa16599fe4e48b3e3a6ae4240ea3.png";
+// import imgRedesign1 from "figma:asset/691564b01327f6beda015c6f9abb37c8933e981e.png";
+// import imgRedesign2 from "figma:asset/5e032289537309a69e13cd5770e0007e891b43fb.png";
 
 // ── Anim config ──
 const ease = [0.16, 1, 0.3, 1] as const;

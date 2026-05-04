@@ -1,6 +1,6 @@
-import img307144719101584659544671176945693397642345361N1 from "figma:asset/34c2b8a08a4b00e42f4440bb1c8ad55b7ae4324b.png";
-import imgCaptureDecran20260311A1719231 from "figma:asset/cec81f57faaf07edf834b4ee4847d953a4f62778.png";
-import imgCouverture31 from "figma:asset/8a8a3c7c60ce497716baa09fc7676d080761cc36.png";
+// import img307144719101584659544671176945693397642345361N1 from "figma:asset/34c2b8a08a4b00e42f4440bb1c8ad55b7ae4324b.png";
+// import imgCaptureDecran20260311A1719231 from "figma:asset/cec81f57faaf07edf834b4ee4847d953a4f62778.png";
+// import imgCouverture31 from "figma:asset/8a8a3c7c60ce497716baa09fc7676d080761cc36.png";
 
 export default function LaCroisiereDeLaDanse() {
   return (

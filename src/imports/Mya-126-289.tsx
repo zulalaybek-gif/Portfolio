@@ -2,7 +2,7 @@ import svgPaths from "./svg-u0wwpt98nw";
 import img1202 from "figma:asset/0f15294d608077e2a5b0f5bf49980413a14f016a.png";
 import img37144721 from "figma:asset/3b1009ade706da2f944ec91a322d158a20d45bee.png";
 import img42 from "figma:asset/b59a77b74a75408214c0228e04a552c2b5713988.png";
-import imgCaptureDecran20260312A2228202 from "figma:asset/5d661b1c474d5b87d6bcd469122e131c3b6cf99f.png";
+// import imgCaptureDecran20260312A2228202 from "figma:asset/5d661b1c474d5b87d6bcd469122e131c3b6cf99f.png";
 import img247086602 from "figma:asset/4e90d088e19a09211f2812ceab588c0ddbe4d43a.png";
 import imgBagueSansFond1 from "figma:asset/263862c56cc8639ac9f2d8b0d844a2611aa9b91c.png";
 import imgPortesClefsSansFond2 from "figma:asset/0f94051a8f76dfc828befdfa602d98ce377d7d77.png";
