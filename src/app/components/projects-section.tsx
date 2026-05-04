@@ -13,17 +13,19 @@ import { WanderingDot } from "./wandering-dot";
 import { FloatingDots } from "./floating-dots";
 import { ScrollProgress } from "./scroll-progress";
 import { SEOHead } from "./seo-head";
-import triptyqueCover from "../../assets/projects/triptyque.svg";
-import myaCover from "../../assets/projects/mya.svg";
-import romaMockup from "../../assets/projects/roma.svg";
-import mwCover from "../../assets/projects/maker-week.svg";
-import nsCover from "../../assets/projects/no-sense.svg";
-import toCover from "../../assets/projects/tarots-oracles.svg";
-import cdCover from "../../assets/projects/croisiere-danse.svg";
-import snatshCover from "../../assets/projects/snatsh.svg";
-import projetXCover from "../../assets/projects/projet-x.svg";
 
-const projects = [
+/*import triptyqueCover from "figma:asset/a8b2cf264c51ef5f20176b39625ca757ecedeb5a.png";
+import myaLogoCover from "figma:asset/2cf585e76a624e180418d538130f7d4a83de2e54.png";
+import myaCover from "figma:asset/5aaec847dd4e927674af97aa6e5c4ab9bc869ff8.png";
+import romaMockup from "figma:asset/ad2c64276560bba68ae641b20d3e11238345b48d.png";
+import mwCover from "figma:asset/846a605b15e7ebde5736d7ce39c46af7762274b2.png";
+import nsCover from "figma:asset/f42fdcdb494517c62872298639e0ef01add796d6.png";
+import toCover from "figma:asset/3ff3fba9261a91787952f9c05897df77ff6780a9.png";
+import cdCover from "figma:asset/8a8a3c7c60ce497716baa09fc7676d080761cc36.png";
+import snatshCover from "figma:asset/190803e9cd681acad1c199af0309663ae8cf15ae.png";
+*/
+
+{/*const projects = [
   { id: 1, title: "Triptyque", subtitle: "Spectacle vivant", catKey: "Direction Artistique",
     img: triptyqueCover, size: "large", slug: "triptyque" },
   { id: 2, title: "MYA", subtitle: "Identité visuelle bijoux", catKey: "Branding",
@@ -43,7 +45,7 @@ const projects = [
   { id: 9, title: "SNATSH Agency", subtitle: "Plaquette de présentation", catKey: "Direction Artistique",
     img: snatshCover, size: "medium", slug: "snatsh" },
   { id: 10, title: "Projet X", subtitle: "Site portfolio", catKey: "Web",
-    img: projetXCover, size: "large", slug: "" },
+    img: "https://images.unsplash.com/photo-1537183673931-f890242dbaef?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXNpZ24lMjBsYXB0b3AlMjBtb2NrdXAlMjBkYXJrfGVufDF8fHx8MTc3MzA5Mzk1OXww&ixlib=rb-4.1.0&q=80&w=1080", size: "large", slug: "" },
 ];
 
 // Internal category keys used for filtering (stay constant)
@@ -74,7 +76,7 @@ export function ProjectsPage() {
       <ScrollProgress />
       <Navbar />
 
-      {/* Floating dots constellation behind title area */}
+      {/* Floating dots constellation behind title area 
       <div className="absolute top-24 left-1/2 -translate-x-1/2 pointer-events-none z-[1]">
         <FloatingDots
           count={8}
@@ -181,7 +183,7 @@ export function ProjectsPage() {
                           : "linear-gradient(to top, rgba(26,22,50,0.88) 0%, rgba(26,22,50,0.15) 50%, transparent 100%)",
                       }} />
                     {/* Logo overlay for branding projects */}
-                    {"logoOverlay" in p && p.logoOverlay && (
+                    {/*{"logoOverlay" in p && p.logoOverlay && (
                       <div className="absolute inset-0 flex items-center justify-center">
                         <img
                           src={p.logoOverlay}
@@ -189,8 +191,8 @@ export function ProjectsPage() {
                           className="w-[22%] max-w-[120px] object-contain invert opacity-60 drop-shadow-[0_2px_12px_rgba(0,0,0,0.5)] transition-all duration-700 group-hover:opacity-90 group-hover:scale-105"
                         />
                       </div>
-                    )}
-                    {/* Cover image overlay for web projects */}
+                    )*/}
+                    {/* Cover image overlay for web projects
                     {"coverImage" in p && p.coverImage && (
                       <img
                         src={p.coverImage}
@@ -225,4 +227,4 @@ export function ProjectsPage() {
       <FooterSection />
     </div>
   );
-}
+}*/}
